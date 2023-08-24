@@ -1,0 +1,23 @@
+#Aurthematic operators
+a1 = int(input('enter the value:'))
+b1 = int(input('enter the value:'))
+print("Addition(+)       : ",a1+b1)
+print("Substraction(-)   : ",a1-b1)
+print("Multiplecation(*) : ",a1*b1)
+print("Division(/)       : ",a1/b1)
+print("Floor division(//): ",a1//b1)
+print("Module(%)         : ",a1%b1)
+print("exponent(**)      : ",a1**b1)
+
+print("---------------------------")
+print("----------------------------")
+
+#Relational operators(true or false as result)
+a2 = int(input('enter the value:'))
+b2 = int(input('enter the value:'))
+print("Is greaterthan(>)             : ",a2>b2)
+print("Is lessthan(<)                : ",a2<b2)
+print("Is equal to(==)               : ",a2==b2)
+print("Is lessthan or equal to(<=)   : ",a2<=b2)
+print("Is greaterthan or equal to(>=): ",a2>=b2)
+print("Is not equal to(!=)           : ",a2!=b2)
