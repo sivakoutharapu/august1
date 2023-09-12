@@ -63,6 +63,7 @@
 #         new_dict[key] = value
 # print(new_dict)            
 
+
 # 8.Write a Python program to access dictionary key's element by index.
 # dict_a = eval(input('enter the dict: '))
 # for i in range(len(dict_a)):
