@@ -1,0 +1,129 @@
+what is python
+who discovered python
+mostly which companies use python
+features of python 
+    easy to learn
+    free and opensource
+    high level programming language
+    platform independent
+    dynamically typed
+    interpreted language
+    extension library
+identifiers rules
+    cannot start with number
+    special characters not allowec except '_'
+    keywords cannot be used as identifiers
+Datatypes
+    integer,boolen,float,complex
+    string,list,set,tuple,dictonary
+operatots
+    arthematic operators
+    relational operators
+    logical operators
+input/output
+conditional statements
+iterative statements
+    for loop 
+    while loop
+github and gitbash
+    push to origin main and to edit files in same repsository
+string
+    indexing, slicing
+    in, not in (operator)
+    replace method
+    split method
+    len method
+    adding two strings(+), string replication(*)
+    strip method
+    comparing two strings
+    find method
+    index method
+    join method
+    startswith()
+    endswith()
+    Case Convertions
+        Upper method
+        lower method
+        title method
+        captialize method
+        swap case method
+    isalnum() 
+    isalpha()
+    isnum()
+    isdigit()
+    islowe()
+    isupper()
+    isspace()
+list
+    list declaration, and creation
+    eval input method
+    accesing elements in a list
+    replacing a element (indexing)
+    while and for loop
+    len 
+    count
+    index method
+    append method
+    insert method
+    extend method
+    pop method
+    remove method
+    reverse method
+    sort method(natural order)
+    aliasing and cloning of list (temporary variable concept)
+    mathematical operations on list
+        list replication(*)
+        list concatination(+)
+    comparing list objects (==,>,<,!=)
+    membership operator
+    clear method(it will reomve all elements from list in existing location)
+    nested list (a list inside a list)
+    list comprehension (simplest form of syntax in list, terinary operator)
+    removing duplicates in a given list
+    creating a list using for loop
+tuple
+    accesing elements in tuple(index,slicing)
+    len method
+    sort method
+    count method
+    index method
+    min method
+    tuple comprehension
+dictonary
+    add items in a dictonary
+    accesing items in dictonary
+        dictonary.items() , to get all items in dictonary
+        dictonary.keys() , to get all keys in dictonary
+        dictonary.values(), to get all values in dictonary
+        dictonary[key] , to get value assigned to that key in dictonary
+    del dictonary[key] , to delete that given key and value
+    del dictonary , it will delete entire dictonary
+    dictonary.clear() , it delete items in dictonary
+    get method , to get value of given key
+    pop method , it will remove tha key value pair and return that value
+    popitem method, it removes last key value pair and return's it in the form of tuple
+    
+
+Functions
+    how to create a function
+    Advantages of function
+    Types of arguments
+        positonal arguments
+        keyword arguments
+        Default arguments (giving a default value for a positional arguments)
+        variable length arguments
+        variable length keyword arguments
+    local and global variable 
+recursions
+lamda Functions
+filter function
+map function
+reduce Function
+nested function 
+modules in python
+membership aliasing 
+math module
+    sqrt() 
+    ceil() 
+    floor()
+    
