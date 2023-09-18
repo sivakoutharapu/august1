@@ -7,7 +7,6 @@ import itertools
 # print("The sum of the list elements is : ", end="")
 # result = reduce(lambda a,b: a+b,list_a)
 # print(result)
-
 # print("The sum of the list elements is : ", end="")
 # result1 = reduce(operator.add,list_a)
 # print(result1)
